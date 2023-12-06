@@ -1,4 +1,4 @@
-# CS230 Labs 5 through 7
+# CS230 Labs 5-7
 
 ## Lab Assignment 05
 The goal of this assignment is to create a react app and deploy it.
